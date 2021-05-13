@@ -1,0 +1,47 @@
+
+main {
+    margin-left: 1em;
+    height: 75em;
+}
+main img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+p {
+    width: 25em;
+}
+#cover{
+    margin-left: 10em;
+    margin-top: 1em;
+    margin-right: 3em;
+    margin-bottom:5em;
+    float: left;
+    max-width: 500px;
+}
+#description {
+    float: left;
+    margin-left: 2em;
+    margin-right: 15em;
+    margin-bottom: 5em;
+}
+#top3 {
+    margin-left: 23em;
+}
+div {
+    border: none;
+}
+div a {
+    font-style: normal;
+    text-decoration: none;
+}
+div a:hover {
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+footer p{
+    padding-left: 30em;
+    
+}

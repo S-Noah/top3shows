@@ -1,0 +1,106 @@
+html {
+    background-image: url("../images/background2.jpg");
+    background-size: 500px;
+}
+body {
+    
+    width: 100%;
+    max-width: 1410px;
+    margin: 0 auto;
+    border: 4px solid black;
+    background-color: whitesmoke;
+}
+header {
+    border: 2px solid black;
+    background-color: rgb(158, 94, 255);
+    padding-bottom: 3em;
+}
+header h1{
+    padding-left: 15em;
+    padding-top: 2em;
+}
+header img {
+    width: 200px;
+    float: left;
+    margin: 0 1em;
+}
+main {
+    height: 800px;
+}
+main h1 {
+    text-align: center;
+    margin-right: 1.5em;
+}
+div {
+    border: 3px solid black;
+    height: 600px;
+    float: left;
+    padding: 2em;
+}
+a {
+    color: black;
+}
+/* Breaking Bad Panel */
+#breakingBad {
+    background-color: rgb(226 77 71);
+}
+#breakingBad:hover {
+    background-color: rgb(196, 77, 71);
+}
+#breakingBad h2 {
+    text-align: center;
+}
+#breakingBad img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+#breakingBad p {
+    width: 25em;
+}
+
+/* Demon Slayer Panel */
+#demonSlayer {
+    background-color: rgb(255, 236, 108);
+}
+#demonSlayer:hover {
+    background-color: rgb(225, 206, 108);
+}
+#demonSlayer h2{
+    text-align: center;
+}  
+#demonSlayer img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+#demonSlayer p {
+    width: 25em;
+}
+
+/* Better Call Saul Panel */
+#betterCallSaul {
+    background-color: rgb(39 189 178);
+}
+#betterCallSaul:hover {
+    background-color: rgb(39 149 148);
+}
+#betterCallSaul h2{
+    text-align: center;
+}
+#betterCallSaul img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+}
+#betterCallSaul p {
+    width: 25em;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(158, 94, 255);
+    padding-bottom: 10px;
+}
+
+                               
